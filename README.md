@@ -1,21 +1,15 @@
 Summarizing Chatbot
 
-A simple chatbot built using HTML, CSS, and Python (Flask) that summarizes long pieces of text into concise and meaningful outputs. It demonstrates basic client–server communication and natural language summarization using a Python backend.
+A simple web-based chatbot built using HTML, CSS, and Python (Flask) that automatically generates concise summaries from long pieces of text. Designed for clarity and efficiency, this project demonstrates how Natural Language Processing (NLP) can simplify information overload through automation.
 
-Features
+🔍 Overview
 
-Accepts any text input from the user.
+The chatbot allows users to enter any paragraph, article, or text input, and instantly returns a short, accurate summary. It provides a clean chat-like interface, making it ideal for quick testing, learning NLP basics, or integrating summarization into other web applications.
 
-Generates short and accurate summaries.
-
-Minimalistic chat-style user interface.
-
-Fast and responsive backend using Flask.
-
-Tech Stack
+⚙️ Tech Stack
 
 Frontend: HTML, CSS
 
 Backend: Python (Flask)
 
-Library Used: transformers or sumy (for text summarization)
+NLP Engine: Hugging Face Transformers

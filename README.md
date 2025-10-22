@@ -24,9 +24,19 @@ It features a clean chat-like interface for interaction and can be used for:
 ## 📁 Folder Structure
 SUMMERIZING CHATBOT/
 │
+
 ├── .env
+
 ├── README.md
+
 ├── index.html # Frontend UI
+
 ├── style.css # Styling file
+
 ├── main.py # Flask backend logic
+
 └── SUMMERIZING CHATBOT # Resource / configuration folder
+
+
+
+
